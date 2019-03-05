@@ -1,5 +1,7 @@
 # circleci-demo
 
+[![CircleCI](https://circleci.com/gh/daniel-dx/circleci-demo/tree/master.svg?style=svg)](https://circleci.com/gh/daniel-dx/circleci-demo/tree/master)
+
 ## Project setup
 ```
 npm install
